@@ -15,7 +15,7 @@ function Presentation() {
                 <br/>Busco uma oportunidade como Técnico de Desenvolvimento de Produtos, preferencialmente produtos que fazem uso da Eletrônica (Ex: Centrais de Alarmes) e fazendo uso de Softwares no desenvolvimento destes produtos. 
                 <br/>Como tenho Bacharelado em Sistemas de Informação e curso Técnico de Full-Stack JavaScript/TypeScript, acredito que tenho condições de trabalhar como Trainee ou Desenvolvedor Júnior Front-End, Back-End, ou seja, onde eu possa aplicar meus conhecimentos e vivência profissional.
             </p>
-            <ButtonA link='https://www.google.com' text='Conecte-se Comigo!' />
+            <ButtonA link="https://www.linkedin.com/in/reinaldomferreira" text='Conecte-se Comigo!' />
         </div>
     )
 }

@@ -2,9 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🌐 Live Demo
-You can see the project live at: [https://github.io](https://github.io)
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -16,11 +13,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm run deploy`
-
-**This command is used to publish the app to GitHub Pages.**\
-It runs `npm run build` and then uses `gh-pages` to deploy the optimized build to your repository.
 
 ### `npm test`
 
@@ -71,7 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment) (Note: This project uses `gh-pages` with the homepage: `https://github.io`)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Oficial/static/css/main.cba553b0.css",
-    "main.js": "/Portfolio_Oficial/static/js/main.be8191b6.js",
+    "main.js": "/Portfolio_Oficial/static/js/main.90f6eadc.js",
     "static/js/453.e276ee32.chunk.js": "/Portfolio_Oficial/static/js/453.e276ee32.chunk.js",
     "static/media/background.svg": "/Portfolio_Oficial/static/media/background.8c189cf6d83c7e4cfc87.svg",
     "static/media/dnc-sales-dashboard-rmf.png": "/Portfolio_Oficial/static/media/dnc-sales-dashboard-rmf.a24852073ce7606d4f73.png",
@@ -13,11 +13,11 @@
     "static/media/Community-Library.png": "/Portfolio_Oficial/static/media/Community-Library.54588d9e0b7411d89cfb.png",
     "index.html": "/Portfolio_Oficial/index.html",
     "main.cba553b0.css.map": "/Portfolio_Oficial/static/css/main.cba553b0.css.map",
-    "main.be8191b6.js.map": "/Portfolio_Oficial/static/js/main.be8191b6.js.map",
+    "main.90f6eadc.js.map": "/Portfolio_Oficial/static/js/main.90f6eadc.js.map",
     "453.e276ee32.chunk.js.map": "/Portfolio_Oficial/static/js/453.e276ee32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cba553b0.css",
-    "static/js/main.be8191b6.js"
+    "static/js/main.90f6eadc.js"
   ]
 }

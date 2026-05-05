@@ -26,7 +26,7 @@ function Footer() {
           </li>
           <li>
             <a
-              href="www.linkedin.com/in/reinaldomferreira"
+              href="https://www.linkedin.com/in/reinaldomferreira"
               target="_blank"
               rel="noopener noreferrer"
               title="Meu Linkedin"

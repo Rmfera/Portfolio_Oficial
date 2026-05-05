@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9081f4c.css",
+    "main.js": "/static/js/main.93796383.js",
+    "static/js/453.e276ee32.chunk.js": "/static/js/453.e276ee32.chunk.js",
+    "static/media/background.svg": "/static/media/background.8c189cf6d83c7e4cfc87.svg",
+    "static/media/dnc-sales-dashboard-rmf.png": "/static/media/dnc-sales-dashboard-rmf.a24852073ce7606d4f73.png",
+    "static/media/DncWheather.png": "/static/media/DncWheather.d40ebb8caa49893c9d76.png",
+    "static/media/portfolio-react-vite.png": "/static/media/portfolio-react-vite.db83704a780ec0d19e43.png",
+    "static/media/my_sales.png": "/static/media/my_sales.d26b494dab247cd4a4ae.png",
+    "static/media/student-grade-manager.png": "/static/media/student-grade-manager.8d62df2796f5a930ce69.png",
+    "static/media/html.svg": "/static/media/html.44ecd99d2c9e4505ca2969e8941fb47b.svg",
+    "static/media/Community-Library.png": "/static/media/Community-Library.54588d9e0b7411d89cfb.png",
+    "index.html": "/index.html",
+    "main.e9081f4c.css.map": "/static/css/main.e9081f4c.css.map",
+    "main.93796383.js.map": "/static/js/main.93796383.js.map",
+    "453.e276ee32.chunk.js.map": "/static/js/453.e276ee32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9081f4c.css",
+    "static/js/main.93796383.js"
+  ]
+}

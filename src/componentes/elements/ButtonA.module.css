@@ -1,0 +1,21 @@
+.btn {
+    background-color: #74FAC0;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    margin-top: 15px;
+    cursor: pointer;
+
+    /* Adições essenciais para a tag <a> se comportar como botão */
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+    transition: all 0.5s;
+}
+
+.btn:hover {
+    color: aliceblue;
+    background-color: #010B28;
+    transform: translateY(-7px);
+}

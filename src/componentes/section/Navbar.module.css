@@ -1,0 +1,28 @@
+.Navbar {
+    display: flex;
+    flex: 1 1 200px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgba(1, 9, 28, 0.75);
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.Navbar ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem;
+}
+
+.Navbar li {
+    margin: 10px;
+    font-size: 1.5rem;
+}
+
+.Navbar a {
+    margin-right: 30px;
+    color: aliceblue !important;
+}

@@ -1,0 +1,23 @@
+.Projects {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Projects section {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.Projects div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Projects a {
+    text-decoration: none;
+}
